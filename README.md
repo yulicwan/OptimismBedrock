@@ -1,2 +1,1 @@
-# OptimismBedrock
-Professional OptimismBedrock infrastructure with OptimismBedrock-optimized optimismbedrock-optimization and enterprise scalable-architecture capabilities
+.
